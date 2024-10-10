@@ -3,6 +3,8 @@
 
 This project aims to analyze traffic accidents that occurred in the United States. The goal is to identify patterns in accidents based on various factors, such as weather conditions, road types, and regions.
 
+<img width="1248" alt="data_strategy" src="https://github.com/user-attachments/assets/3e6e5468-273f-479e-a495-7f79447be1f5">
+
 This is a repository developed with Google Collaboratory:
 
 <a href="https://colab.research.google.com/github/joaoangnes/us-accident-analysis/blob/main/us_accident_analysis.ipynb" target="_parent">
